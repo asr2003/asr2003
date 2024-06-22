@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,kubernetes,docker,go,react,typescript,js,html,css,py,bash,nodejs,express,aws,git,github,mongodb,nginx,powershell,vscode,&perline=10" />
+    <img src="https://skillicons.dev/icons?i=figma,kubernetes,docker,go,scala,react,typescript,js,html,css,py,bash,nodejs,express,aws,git,github,mongodb,nginx,powershell,&perline=10" />
   </a>
 </p>
 
